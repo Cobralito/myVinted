@@ -1,0 +1,8 @@
+[
+    {
+        "name": "myVinted",
+        "token": "process.env.VINTED_BOT_TOKEN",
+        "adminIDs": "256089266646417408"
+        "guildID": "959010155901628436"
+    }
+]
